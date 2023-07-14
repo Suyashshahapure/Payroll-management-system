@@ -1,0 +1,1 @@
+The Payroll Management System is a software application developed using Python programming language and SQL (Structured Query Language) for efficient and accurate management of employee payroll within an organization It streamlines the process of calculating, managing, and disbursing employee salaries, taxes, deductions, and benefits.
